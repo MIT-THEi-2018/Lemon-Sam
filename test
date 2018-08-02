@@ -1,0 +1,7 @@
+line = {
+		    '140M':['spiderman',"t'challa",'vision'],
+			'240M':['bucky','hawkeye','scarlet witch'],
+			'340M':['superman','mickey','duck','dog'] 
+}
+
+choose_bus=input("Which mini bus do u want to search?")choose_bus=input("Which mini bus do u want to search?")
